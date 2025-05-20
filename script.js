@@ -6,23 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "qual time é maior que o palmeiras?",
+    alternativas: ["Flamengo", "São Paulo"],
   },
   {
-    enunciado: "Pergunta 2",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual o melhor FIFA que existiu?",
+    alternativas: ["FIFA 17", "FIFA 14"],
   },
   {
-    enunciado: "Pergunta 3",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Quem é mais ladrão?",
+    alternativas: ["Lula", "var do palmeiras"],
   },
   {
-    enunciado: "Pergunta 4",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Quem chuta melhor?",
+    alternativas: ["Neymar Jr", "Raphinha"],
   },
   {
-    enunciado: "Pergunta 5",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual jogador mais feio?",
+    alternativas: ["Vagner Love", "Frank Ribery"],
   },
 ];
