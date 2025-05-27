@@ -23,7 +23,7 @@ alternativas: ["de bruyne", "coringa"],
 },
 {
 enunciado: "qual é melhor finalizador da historia",
-alternativas: ["Neymito", " Caça Rato "],
+alternativas: ["Yuri aberto", " Caça Rato "],
 },
 let atual = 0;
 let perguntaAtual;
