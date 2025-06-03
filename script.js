@@ -11,7 +11,8 @@ alternativas: ["real madrid ", " Barcelona"],
 },
 {
 enunciado: "qual é o jogor mais bonito",
-alternativas: ["Cristiano Ronaldo", "neymar Jr"],
+alternativas: ["Cristiano Ronaldo", "neymar Jr"],   texto: "Isso é assustador!",
+                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
 },
 {
 enunciado: "qual é o jogador mais feio",
